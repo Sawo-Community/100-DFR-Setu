@@ -4,6 +4,10 @@ We are so excited to have Setu in the first edition of 100 Days of Feature Reque
 
 # About the Brand
 
+Setu is a nutrition company that uses industry-leading science to solve real-life problems. #SupplementsThatMakeSense 
+
+Our approach to nutrition is based on a simple truth: science needs to be practical in order to be effective. All our products are backed by heavy-duty R&D, but that would mean little if they didn't actually help real people solve real problems. Being healthy is hard enough already. Science needs a personal touch. That’s why we make supplements that make sense.
+
 # Table of Contest
 
 * [Contributing](#contributing)
