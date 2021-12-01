@@ -12,7 +12,8 @@ Our approach to nutrition is based on a simple truth: science needs to be practi
 
 Setu will award some of the great contributions with the following perks:
 
-- **Setu Wellness Kit** (Worth 2500 INR) OR **Echo Dot**.
+- Top Contributors receive **Setu Wellness Kit** (Worth 2500 Rs) and **Echo Dot** with opportunities to get hired for Frontend, Backend & Fullstack Developers.
+- Cash rewards upto **INR 20K** and get a chance to **join Setu India Team**.
 
 # Table of Contest
 
