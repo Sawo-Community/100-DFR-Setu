@@ -8,6 +8,26 @@ Setu is a nutrition company that uses industry-leading science to solve real-lif
 
 Our approach to nutrition is based on a simple truth: science needs to be practical in order to be effective. All our products are backed by heavy-duty R&D, but that would mean little if they didn't actually help real people solve real problems. Being healthy is hard enough already. Science needs a personal touch. That’s why we make supplements that make sense.
 
+# Problem Statements
+
+## Statement No. 1
+
+- **Details** - We are looking to design a system that captures, organizes, and routes data so that it can be used to gain insights. The architecture should organize data/user events to make reporting, analysis, and using data easier.
+- **Outcome** - This should help us to get insights into functional areas like target customer behavior, robotic process automation, customer journeys, and user experiences. We’re not looking for some open tools suggestions instead building our own data pipeline. The dashboard should be easy to use.
+
+## Statement No. 2
+
+- **Details** - Setu have a scientifically designed sense test where we ask around 15-20 questions depending on the goal user selects and after considering user inputs, we recommend the best products (2-3 products for each goal) to help achieve your goals. Instead of recommending multiple products, we want to recommend a pill pack that will consist of one pill from each product. So instead of sending 3 product bottles for 1 month,  there will be 30 pill packs and each pack will have 2-3 tablets depending on the recommendation.
+
+- **Outcome** - You have to build this logic on the fly after the user takes the sense test. Few points to be noted:
+
+1. These pill packs will be dispatched from a different warehouse
+2. It will depend on the availability of the pill packs, if not available then we’ll recommend the individual products only, else recommend the pill pack.
+3. We might need to make the design changes on the result page.
+4. How the order creation will happen differently and how you will push this information to the warehouse.
+
+You can find the same problem statements as **issues**. <b>Read the issues and mention them while submitting a Pull Request.</b>
+
 # Rewards
 
 Setu will award some of the great contributions with the following perks:
